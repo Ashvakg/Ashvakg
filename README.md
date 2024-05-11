@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashvakg
-- 👀 I’m interested in Data Analytics, Data Engineering, Business Analytics and Intelligence
+- 👀 I’m interested in Data Analytics, Business Intelligence and Data Engineering
 - 🌱 I’m currently practicing and deploying solutions on AWS
 - 💞️ I’m looking to collaborate on Data Engineering topics
 - 📫 Connect with me at ashvak979@gmail.com
