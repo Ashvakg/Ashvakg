@@ -92,12 +92,14 @@ Iâ€™ve been the **person accountable when numbers had financial consequences** â
 
 ---
 
-## Core Stack (used in anger)
+## Core Stack
 
 - **Languages:** Python, SQL, Bash  
 - **Data Engineering:** dbt, Snowflake, Redshift, AWS Glue, Lambda, Airflow  
 - **Streaming:** Kinesis  
-- **BI:** Power BI (DAX, star schemas), Tableau  
+- **BI:** Power BI (DAX, star schemas), Tableau, Microstrategy 
+- **Database:** Postgres, MSSQL Server
+- **Datawarehousing:** Redshift, Snowflake
 - **Cloud & DevOps:** AWS (S3, EC2, IAM), Docker, GitHub Actions  
 - **ERP & Ops:** Dynamics 365, finance & project data modeling  
 
