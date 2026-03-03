@@ -120,7 +120,7 @@ This GitHub exists to answer one question:
 ## Let’s connect
 
 - **LinkedIn:** https://www.linkedin.com/in/ash-gov/
-- **Portfolio:** https://your-website.com  
+- **Portfolio:** https://ashvakg.github.io/portfolio/ 
 - **Email:** ashvak979@gmail.com  
 
 I’m open to roles in **Data Engineering, Analytics Engineering, and BI / Finance Analytics** where ownership and impact matter.
